@@ -15,7 +15,7 @@
 
 		<!-- Header -->
 			<header id="header" class="alt">
-				<div class="logo"><a href="index.html">Hielo <span>by TEMPLATED</span></a></div>
+				<div class="logo"><a href="index.html">Music <span>by Arvid Steen</span></a></div>
 				<a href="#menu">Menu</a>
 			</header>
 
@@ -24,6 +24,8 @@
 				<ul class="links">
 					<li><a href="index.html">Home</a></li>
 					<li><a href="generic.html">Generic</a></li>
+					<li><a href="generic2.html">Generic2</a></li>
+					<li><a href="generic3.html">Generic3</a></li>
 					<li><a href="elements.html">Elements</a></li>
 				</ul>
 			</nav>
@@ -34,7 +36,7 @@
 					<img src="images/slide01.jpg" alt="" />
 					<div class="inner">
 						<header>
-							<p>Music, notes, and tabelature by<a href="https://arvidsteen.github.io">Arvid Steen</a></p>
+							<p>Music, notes, and tabelature by <a href="https://arvidsteen.github.io">Arvid Steen</a></p>
 							<h2>Hielo</h2>
 						</header>
 					</div>
@@ -43,8 +45,8 @@
 					<img src="images/slide02.jpg" alt="" />
 					<div class="inner">
 						<header>
-							<p>Lorem ipsum dolor sit amet nullam feugiat</p>
-							<h2>Magna etiam</h2>
+							<p>Music, notes, and tabelature by Arvid Steen</p>
+							<h2>Magma chords</h2>
 						</header>
 					</div>
 				</article>
@@ -52,8 +54,8 @@
 					<img src="images/slide03.jpg"  alt="" />
 					<div class="inner">
 						<header>
-							<p>Sed cursus aliuam veroeros lorem ipsum nullam</p>
-							<h2>Tempus dolor</h2>
+							<p>Music, notes, and tabelature by Arvid Steen</p>
+							<h2>Edgy music</h2>
 						</header>
 					</div>
 				</article>
@@ -61,8 +63,8 @@
 					<img src="images/slide04.jpg"  alt="" />
 					<div class="inner">
 						<header>
-							<p>Adipiscing lorem ipsum feugiat sed phasellus consequat</p>
-							<h2>Etiam feugiat</h2>
+							<p>Music, notes, and tabelature by Arvid Steen</p>
+							<h2>Happy endings</h2>
 						</header>
 					</div>
 				</article>
@@ -70,8 +72,8 @@
 					<img src="images/slide05.jpg"  alt="" />
 					<div class="inner">
 						<header>
-							<p>Ipsum dolor sed magna veroeros lorem ipsum</p>
-							<h2>Lorem adipiscing</h2>
+							<p>Music, notes, and tabelature by Arvid Steen</p>
+							<h2>Feelgood pics</h2>
 						</header>
 					</div>
 				</article>
@@ -177,6 +179,9 @@
 				</div>
 				<div class="copyright">
 					&copy; Untitled. All rights reserved.
+				</div>
+				<div>
+					Hielo (this template) is made by <a href="https://templated.co">TEMPLATED</a>
 				</div>
 			</footer>
 
