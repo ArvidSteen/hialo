@@ -34,7 +34,7 @@
 					<img src="images/slide01.jpg" alt="" />
 					<div class="inner">
 						<header>
-							<p>A free responsive web site template by <a href="https://templated.co">TEMPLATED</a></p>
+							<p>Music, notes, and tabelature by<a href="https://arvidsteen.github.io">Arvid Steen</a></p>
 							<h2>Hielo</h2>
 						</header>
 					</div>
