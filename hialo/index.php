@@ -46,7 +46,7 @@
 					<div class="inner">
 						<header>
 							<p>Music, notes, and tabelature by Arvid Steen</p>
-							<h2>Magma chords</h2>
+							<h2 style="text-shadow: 0.1em 0.1em 0.2em black;">Magma chords</h2>
 						</header>
 					</div>
 				</article>
@@ -55,7 +55,7 @@
 					<div class="inner">
 						<header>
 							<p>Music, notes, and tabelature by Arvid Steen</p>
-							<h2>Edgy music</h2>
+							<h2 style="text-shadow: 0.1em 0.1em 0.2em black;">Edgy music</h2>
 						</header>
 					</div>
 				</article>
@@ -64,7 +64,7 @@
 					<div class="inner">
 						<header>
 							<p>Music, notes, and tabelature by Arvid Steen</p>
-							<h2>Happy endings</h2>
+							<h2 style="text-shadow: 0.1em 0.1em 0.2em black;">Happy endings</h2>
 						</header>
 					</div>
 				</article>
@@ -73,7 +73,7 @@
 					<div class="inner">
 						<header>
 							<p>Music, notes, and tabelature by Arvid Steen</p>
-							<h2>Feelgood pics</h2>
+							<h2 style="text-shadow: 0.1em 0.1em 0.2em black;">Feelgood pics</h2>
 						</header>
 					</div>
 				</article>
