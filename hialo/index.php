@@ -15,18 +15,18 @@
 
 		<!-- Header -->
 			<header id="header" class="alt">
-				<div class="logo"><a href="index.html">Music <span>by Arvid Steen</span></a></div>
+				<div class="logo"><a href="index.php">Music <span>by Arvid Steen</span></a></div>
 				<a href="#menu">Menu</a>
 			</header>
 
 		<!-- Nav -->
 			<nav id="menu">
 				<ul class="links">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="generic.html">Generic</a></li>
-					<li><a href="generic2.html">Generic2</a></li>
-					<li><a href="generic3.html">Generic3</a></li>
-					<li><a href="elements.html">Elements</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="generic.php">Generic</a></li>
+					<li><a href="generic2.php">Generic2</a></li>
+					<li><a href="generic3.php">Generic3</a></li>
+					<li><a href="elements.php">Elements</a></li>
 				</ul>
 			</nav>
 
