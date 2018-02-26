@@ -178,10 +178,10 @@
 					</ul>
 				</div>
 				<div class="copyright">
-					&copy; Untitled. All rights reserved.
+					&copy; BathSalt. All rights reserved.
 				</div>
 				<div>
-					Hielo (this template) is made by <a href="https://templated.co">TEMPLATED</a>
+					Hialo (this template) is made by <a href="https://templated.co">TEMPLATED</a>
 				</div>
 			</footer>
 
